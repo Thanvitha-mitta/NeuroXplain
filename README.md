@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Detection System
+# 🧠 NeuroXplain - Brain Tumor Detection System
 
 A comprehensive deep learning system for detecting and classifying brain tumors from MRI scans using Convolutional Neural Networks (CNN). The system can identify four different conditions: Glioma, Meningioma, Pituitary Tumor, and No Tumor.
 
