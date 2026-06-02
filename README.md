@@ -11,6 +11,22 @@ A comprehensive deep learning system for detecting and classifying brain tumors 
 - **Real-time Predictions**: Fast inference with confidence scores
 - **Model Training Pipeline**: Complete training and evaluation setup
 
+## 🌐 Live Demo
+
+Try NeuroXplain directly without local setup:
+
+🚀 **Live Application:**  
+https://neuroxplain.streamlit.app/
+
+### Demo Features
+- Upload Brain MRI images
+- Get real-time tumor classification
+- View Grad-CAM explainability heatmaps
+- Download PDF diagnostic reports
+- Interactive and user-friendly interface
+
+> ⚠️ This application is intended for research and educational purposes only and should not be used for clinical diagnosis.
+
 ## 📊 Dataset
 
 The system is trained on a comprehensive brain MRI dataset with the following structure:
@@ -99,6 +115,13 @@ python predict_brain_tumor.py
 Specify the path of the MRI image for detection of brain tumor
 
 ### Running the Application
+
+#### Option 1: Use the deployed application (Recommended)
+
+Open:
+https://neuroxplain.streamlit.app/
+
+#### Option 2: Run locally
 
 1. **Launch the Streamlit app**
 
